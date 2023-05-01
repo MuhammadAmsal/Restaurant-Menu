@@ -12,14 +12,14 @@ mybuttonsdiv.innerHTML=btnarray.join("")
 
 const menus = [
     {
-        src: '/images/item-1.jpeg',
+        src: './images/item-1.jpeg',
         title: 'Buttermilk Pancakes',
         desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. </br> Nisi at sapiente veritatis rerum qui magnam in pariatur sit dolor debitis?',
         price: '$ 20.99',
         category: 'Breakfast'
     },
     {
-        src: ' /images/item-4.jpeg',
+        src: ' ./images/item-4.jpeg',
         title: 'Country Delight',
         desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.</br> Nisi at sapiente veritatis rerum qui magnam in pariatur sit dolor debitis?',
         price: '$ 15.99',
@@ -33,49 +33,49 @@ const menus = [
         category: 'Breakfast'
     },
     {
-        src: '/images/item-2.jpeg',
+        src: './images/item-2.jpeg',
         title: 'Dinner Double',
         desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.</br> Nisi at sapiente veritatis rerum qui magnam in pariatur sit dolor debitis?',
         price: '$ 13.99',
         category: 'Lunch'
     },
     {
-        src: '/images/item-5.jpeg',
+        src: './images/item-5.jpeg',
         title: 'Egg Attack',
         desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.</br> Nisi at sapiente veritatis rerum qui magnam in pariatur sit dolor debitis?',
         price: '$ 22.99',
         category: 'Lunch'
     },
     {
-        src: '/images/item-8.jpeg',
+        src: './images/item-8.jpeg',
         title: 'American Classic',
         desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.</br> Nisi at sapiente veritatis rerum qui magnam in pariatur sit dolor debitis?',
         price: '$ 12.99',
         category: 'Lunch'
     },
     {
-        src: '/images/item-9.jpeg',
+        src: './images/item-9.jpeg',
         title: 'Quarantine Buddy',
         desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.</br> Nisi at sapiente veritatis rerum qui magnam in pariatur sit dolor debitis?',
         price: '$ 16.99',
         category: 'Shakes'
     },
     {
-        src: '/images/item-6.jpeg',
+        src: './images/item-6.jpeg',
         title: 'Oreo Dream',
         desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.</br> Nisi at sapiente veritatis rerum qui magnam in pariatur sit dolor debitis?',
         price: '$ 18.99',
         category: 'Shakes'
     },
     {
-        src: '/images/item-3.jpeg',
+        src: './images/item-3.jpeg',
         title: 'Godzilla Milkshakes',
         desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.</br> Nisi at sapiente veritatis rerum qui magnam in pariatur sit dolor debitis?',
         price: '$ 6.99',
         category: 'Shakes'
     },
     {
-        src: '/images/item-10.jpeg',
+        src: './images/item-10.jpeg',
         title: 'Steak Dinner',
         desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.</br> Nisi at sapiente veritatis rerum qui magnam in pariatur sit dolor debitis?',
         price: '$ 39.99',
