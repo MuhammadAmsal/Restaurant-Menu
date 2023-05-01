@@ -26,7 +26,7 @@ const menus = [
         category: 'Breakfast'
     },
     {
-        src: '/images/item-7.jpeg',
+        src: './images/item-7.jpeg',
         title: 'Bacon Overflow',
         desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.</br> Nisi at sapiente veritatis rerum qui magnam in pariatur sit dolor debitis?',
         price: '$ 8.99',
